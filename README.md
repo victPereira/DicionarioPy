@@ -5,10 +5,15 @@ Esse programa é um dicionário que busca a definição de uma palavra a partir 
 ## Tecnologias utilizadas
 
 -Python 3.8.5
+
 -Tkinter 8.6
+
 -Pillow 8.1.0
+
 -Requests 2.25.1
+
 -JSON 2.0.9
+
 -TkScrolledFrame 1.1.0
 
 ## O programa utiliza as seguintes bibliotecas:

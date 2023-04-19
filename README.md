@@ -38,4 +38,4 @@ A interface gráfica é construída usando a biblioteca tkinter. A janela princi
 -O frame inferior contém a lista de significados retornados pela API.
 
 -------------------------------------------
-![Projeto](example.png)
+![Projeto](example.PNG)

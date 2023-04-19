@@ -22,7 +22,7 @@ TkScrolledFrame 1.1.0
 -requests e json: para fazer a requisição HTTP e tratar a resposta JSON
 
 
-##Interface Gráfica
+## Interface Gráfica
 
 A interface gráfica é construída usando a biblioteca tkinter. A janela principal tem o tamanho de 350x415 pixels e não pode ser redimensionada. Ela é composta por três frames:
 

@@ -36,3 +36,6 @@ A interface gráfica é construída usando a biblioteca tkinter. A janela princi
 -O frame do meio contém um campo de entrada para a palavra a ser pesquisada.
 
 -O frame inferior contém a lista de significados retornados pela API.
+
+-------------------------------------------
+![Projeto](example.png)
